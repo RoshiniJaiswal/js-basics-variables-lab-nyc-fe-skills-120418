@@ -1,1 +1,1 @@
-Company
+let companyName= "Scuber"
